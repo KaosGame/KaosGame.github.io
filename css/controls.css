@@ -1,0 +1,6 @@
+.warnTextColor {
+
+  color: var(--bs-info);
+  background-color: rgba(13, 202, 240, 0.25);
+
+}
